@@ -1,0 +1,12 @@
+2021-01-21 22:42:50,224  INFO [main] LoginTest:33 - ****************************** Starting test cases execution  *****************************************
+2021-01-21 22:43:13,498  INFO [main] LoginTest:37 - launching chrome broswer
+2021-01-21 22:43:37,644  INFO [main] LoginTest:44 - entering application URL
+2021-01-21 22:43:37,645  WARN [main] LoginTest:45 - Hey this just a warning message
+2021-01-21 22:43:37,646 FATAL [main] LoginTest:46 - hey this is just fatal error message
+2021-01-21 22:43:37,646 DEBUG [main] LoginTest:47 - this is debug message
+2021-01-21 22:43:38,116  INFO [main] LoginTest:53 - ****************************** starting test case *****************************************
+2021-01-21 22:43:38,117  INFO [main] LoginTest:54 - ****************************** freeCrmTitleTest *****************************************
+2021-01-21 22:43:47,615  INFO [main] LoginTest:57 - login page title is--->Free CRM #1 cloud software for any business large or small
+2021-01-21 22:43:47,800  INFO [main] LoginTest:60 - ****************************** ending test case *****************************************
+2021-01-21 22:43:47,800  INFO [main] LoginTest:61 - ****************************** freeCrmTitleTest *****************************************
+2021-01-21 22:43:51,762  INFO [main] LoginTest:83 - ****************************** Browser is closed *****************************************
